@@ -7,6 +7,7 @@ The goal is to transform raw crash data into actionable insights that can suppor
 📊 Dataset Description
 
 The dataset contains detailed crash records with attributes such as:
+
 Crash date and time
 Location and municipality
 Road and lane characteristics
